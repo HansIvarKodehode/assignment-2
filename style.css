@@ -36,12 +36,16 @@ luxury: #00403f */
 }
 .yellow {
   background-color: #e28524;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
 }
 .blue {
   background-color: #016972;
 }
 .grey {
   background-color: #00403f;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 img {
   width: 35%;
